@@ -1,0 +1,4 @@
+computer
+good
+home
+nice

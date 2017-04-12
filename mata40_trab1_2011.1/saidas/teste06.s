@@ -1,0 +1,3 @@
+computer
+home
+house
